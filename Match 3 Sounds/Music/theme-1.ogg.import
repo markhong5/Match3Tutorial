@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cm8mw5y0hfull"
+path="res://.godot/imported/theme-1.ogg-37cdb49b68dd18ecf7e8562fa90c94b8.oggvorbisstr"
+
+[deps]
+
+source_file="res://Match 3 Sounds/Music/theme-1.ogg"
+dest_files=["res://.godot/imported/theme-1.ogg-37cdb49b68dd18ecf7e8562fa90c94b8.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
